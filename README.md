@@ -4,6 +4,9 @@
 
 * * *
 Link to test http://lihas.github.io/AwSnap/
+
+
+
 [This link crashes Chrome](http://cortexture.net/chromebug/test.html)
 
 At the time of publishing (April 5th, 2015) Chrome 41 seems to crash on long and/or malformed URLs. The crash only occurs when accessing the link through a webserver (i.e. using file:// will *not* crash).
